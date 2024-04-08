@@ -1,0 +1,10 @@
+name: ssl-mhealth
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+  - plotly
+  - numpy
+  - wfdb
+  - pandas
+  - jupyter
